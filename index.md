@@ -1,6 +1,3 @@
-# NAVEGA FELIZ
-Más seguro, más rápido, mejor en todos los aspectos. Actuzliza tu navegador hoy.
-
 * [Mozilla Firefox][1]  
   _"Consigue toda la velocidad y herramientas sin invasiones a tu privacidad."_
 * [Google Chrome][2]  
