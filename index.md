@@ -5,7 +5,7 @@
 * [Apple Safari][3]  
   _"Superrápido. Requeteprivado."_
 * [Opera][4]  
-  Usamos mucha menos capacidad de procesamiento que otros navegadores y tenemos un bloqueador de publicidad incorporado que ayuda a cargar las páginas más rápido.
+  _"Usamos mucha menos capacidad de procesamiento que otros navegadores y tenemos un bloqueador de publicidad incorporado que ayuda a cargar las páginas más rápido."_
 * [Microsoft Edge][5]  
    _"Microsoft Edge es el único navegador con herramientas integradas que te ayudan a ahorrar tiempo y dinero cuando compras online."_
 
